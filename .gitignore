@@ -1,0 +1,10 @@
+specter/*
+outputs*
+~ADAPT*
+OLD_*
+*.h5
+*.json
+*.csv
+*__pycache__*
+.ipynb*
+03_*
